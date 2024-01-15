@@ -1,0 +1,55 @@
+/* Mobile Device Start */
+@media screen and (max-width: 576px) {
+  .container {
+    width: 95%;
+  }
+  .menu ul {
+    display: none;
+  }
+  .logo {
+    width: 75%;
+    margin-left: 28px;
+  }
+  .menu {
+    width: 25%;
+  }
+  .logo h3,
+  .logo h3 span.travel {
+    font-size: 20px;
+  }
+  .mobile-menu .bar-icon {
+    display: inline;
+    font-size: 30px;
+    margin-left: 35px;
+  }
+  .banner-area {
+    width: 88%;
+    height: 98%;
+    padding: 30px 15px;
+    margin: 0 auto;
+  }
+  .banner-area .banner-content h1 {
+    font-size: 22px;
+  }
+  .banner-area .banner-content p {
+    font-size: 14px;
+  }
+  .banner-input {
+    flex-direction: column;
+  }
+  .banner-input .input-primary {
+    width: 90%;
+  }
+  .btn-primary {
+    width: 90%;
+  }
+  .arrow {
+    bottom: 305px;
+    right: 25%;
+  }
+  .arrow-1 {
+    bottom: 240px;
+    right: 25%;
+  }
+}
+/* Mobile Device End */
