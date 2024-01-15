@@ -43,13 +43,13 @@
   .btn-primary {
     width: 90%;
   }
-  .arrow {
-    bottom: 305px;
-    right: 25%;
+  .tours-area {
+    flex-direction: column;
+    padding: 0 25px;
   }
-  .arrow-1 {
-    bottom: 240px;
-    right: 25%;
+  .tours-content,
+  .tours-img {
+    width: 100%;
   }
 }
 /* Mobile Device End */
