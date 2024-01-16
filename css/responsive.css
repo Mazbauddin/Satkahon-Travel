@@ -163,6 +163,19 @@
   .price-color {
     font-size: 16px;
   }
+  .team-member-info {
+    flex-direction: column;
+  }
+  section.team-member-area {
+    margin: 0 15px;
+  }
+  .team_col1,
+  .team_col2,
+  .team_col3 {
+    height: 520px;
+    width: 100%;
+    margin-right: 0px;
+  }
   .perfect-place-area {
     flex-direction: column;
   }
