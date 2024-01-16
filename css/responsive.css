@@ -90,6 +90,18 @@
   .choose-box {
     flex-direction: column;
   }
+  .plan-part {
+    flex-direction: column;
+    gap: 80px;
+  }
+  .sign_up {
+    margin-left: 36%;
+  }
+  .price_col1,
+  .price_col2,
+  .price_col3 {
+    margin-right: 0px;
+  }
   .box-item1 h4,
   .box-item2 h4,
   .box-item3 h4 {
