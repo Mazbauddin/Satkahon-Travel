@@ -170,5 +170,17 @@
   .perfect-place-content .title-dark {
     font-size: 14px;
   }
+  .newsletter-area {
+    flex-direction: column;
+  }
+  .newsletter-discount {
+    width: 210px;
+  }
+  .newsletter-discount p {
+    font-size: 14px;
+  }
+  .newsletter-discount h2 {
+    font-size: 20px;
+  }
 }
 /* Mobile Device End */
