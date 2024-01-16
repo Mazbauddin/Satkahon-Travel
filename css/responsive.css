@@ -7,11 +7,11 @@
     display: none;
   }
   .logo {
-    width: 75%;
+    width: 85%;
     margin-left: 28px;
   }
   .menu {
-    width: 25%;
+    width: 15%;
   }
   .logo h3,
   .logo h3 span.travel {
@@ -20,7 +20,7 @@
   .mobile-menu .bar-icon {
     display: inline;
     font-size: 30px;
-    margin-left: 35px;
+    margin-left: 8px;
   }
   .banner-area {
     width: 88%;
@@ -50,6 +50,42 @@
   .tours-content,
   .tours-img {
     width: 100%;
+  }
+  .heading {
+    font-size: 20px;
+  }
+  .title {
+    font-size: 14px;
+  }
+  .distination-area {
+    padding: 0px 15px;
+  }
+  .destination-image {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .destination-card img {
+    height: 176px;
+  }
+  .grid-1,
+  .grid-2,
+  .grid-3,
+  .grid-4,
+  .grid-5,
+  .grid-6,
+  .grid-7 {
+    grid-column: 1 / span 1;
+  }
+
+  .grid-1 h2,
+  .grid-2 h2,
+  .grid-3 h2,
+  .grid-4 h2,
+  .grid-5 h2,
+  .grid-6 h2,
+  .grid-7 h2 {
+    top: 35%;
+    font-size: 21px;
   }
 }
 /* Mobile Device End */
