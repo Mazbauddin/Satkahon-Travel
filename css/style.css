@@ -353,6 +353,9 @@ a {
 }
 /* choose area end */
 /* discounts-area start */
+section.discounts-area {
+  margin: 80px 0;
+}
 .discounts-content {
   text-align: center;
 }

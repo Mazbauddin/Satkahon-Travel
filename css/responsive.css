@@ -107,9 +107,49 @@
   }
   .box-item3 {
     margin: 30px auto;
-    width: 347px;
+    width: 382px;
     padding: 32px 32px 0 32px;
     text-align: left;
+  }
+  section.discounts-area {
+    margin: 40px 0;
+  }
+  .discount-box-right {
+    width: 365px;
+    height: 380px;
+    margin: 0 0px 0px 0px;
+    padding: 24px;
+  }
+  .discounts-item1 {
+    padding: 190px 23px 20px 23px;
+    height: 600px;
+    background-size: cover;
+  }
+  .discount-box-left {
+    width: 365px;
+    height: 380px;
+    margin: 0 0px 0px 0px;
+    padding: 24px;
+  }
+  .discounts-item2 {
+    padding: 190px 23px 20px 23px;
+    height: 600px;
+    background-size: cover;
+  }
+  .discounts-item3 {
+    padding: 190px 23px 20px 23px;
+    height: 600px;
+    background-size: cover;
+  }
+  .price.break {
+    display: block;
+    margin-bottom: 7px;
+  }
+  .price-heading {
+    font-size: 20px;
+  }
+  .price-color {
+    font-size: 16px;
   }
 }
 /* Mobile Device End */
