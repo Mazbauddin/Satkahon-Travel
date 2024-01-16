@@ -353,7 +353,7 @@ a {
 }
 /* choose area end */
 /* discounts-area start */
-section.discounts-area {
+.discounts-area {
   margin: 80px 0;
 }
 .discounts-content {
@@ -459,3 +459,38 @@ section.discounts-area {
   display: block;
 }
 /* discounts-area end */
+/* perfect-place-area start */
+.perfect-place-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 25px;
+  margin: 80px 0;
+}
+.perfect-place-content {
+  width: 50%;
+}
+.perfect-place-video {
+  width: 50%;
+  height: 100%;
+}
+.perfect-place-video iframe {
+  width: 550px;
+  height: 390px;
+  border-radius: 8px;
+}
+.perfect-place-content .heading {
+  text-align: left;
+}
+.perfect-place-content .title-dark {
+  color: #131318;
+  font-family: Mulish;
+  font-size: 16px;
+  font-style: normal;
+  margin-bottom: 10px;
+  font-weight: 700;
+  line-height: 26px;
+  margin-left: 20px;
+}
+
+/* perfect-place-area end */
