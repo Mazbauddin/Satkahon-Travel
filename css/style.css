@@ -352,3 +352,107 @@ a {
   text-align: left;
 }
 /* choose area end */
+/* discounts-area start */
+.discounts-content {
+  text-align: center;
+}
+.discounts-item1 {
+  /* background-image: ; */
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 50px;
+  border-radius: 16px;
+  background: url("../images/discounts/discounts-one.png"),
+    lightgray 50% / cover no-repeat;
+  margin-bottom: 15px;
+}
+.discounts-item2 {
+  /* background-image: ; */
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 50px;
+  border-radius: 16px;
+  background: url("../images/discounts/discounts-two.png"),
+    lightgray 50% / cover no-repeat;
+  margin-bottom: 15px;
+}
+.discounts-item3 {
+  /* background-image: ; */
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 50px;
+  border-radius: 16px;
+  background: url("../images/discounts/discounts-one.png"),
+    lightgray 50% / cover no-repeat;
+  margin-bottom: 35px;
+}
+.discount-box-right {
+  border-radius: 16px;
+  border: 2px solid #fff;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2.5px);
+  width: 579px;
+  height: 389px;
+  margin: 0 0px 0px 415px;
+  padding: 52px;
+}
+.discount-box-left {
+  border-radius: 16px;
+  border: 2px solid #fff;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2.5px);
+  width: 579px;
+  height: 389px;
+  padding: 52px;
+}
+.price-icon {
+  color: #ff5400;
+  margin-right: 5px;
+}
+.price {
+  color: #5a5a5d;
+  font-family: Mulish;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-right: 20px;
+}
+.price-heading {
+  color: #131318;
+  font-family: Mulish;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin: 10px 0;
+}
+.price-color {
+  color: #ff5400;
+  font-family: Mulish;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-bottom: 25px;
+}
+.btn-primary-2 {
+  border-radius: 8px;
+  background: #ff5400;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  width: 150px;
+  outline: none;
+  color: #fff;
+  text-align: center;
+  font-family: Mulish;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  cursor: pointer;
+  margin: 0 auto;
+  display: block;
+}
+/* discounts-area end */
